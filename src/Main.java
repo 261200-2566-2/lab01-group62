@@ -16,7 +16,6 @@ public class Main {
             if (!swapped)break;
         }
     }
-
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         System.out.print("Enter number: ");
